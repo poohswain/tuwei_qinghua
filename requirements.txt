@@ -1,0 +1,9 @@
+# PyTorch 請依照自己的 CUDA 版本，到 https://pytorch.org/get-started/locally/ 複製安裝指令，例如：
+#   pip install torch==2.11.0 --index-url https://download.pytorch.org/whl/cu128
+transformers==5.17.0
+trl==1.13.0
+peft==0.21.0
+bitsandbytes==0.50.2
+datasets==5.0.1
+accelerate==1.15.0
+matplotlib>=3.8

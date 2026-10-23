@@ -1,0 +1,6 @@
+# 訓練中途的 checkpoint 不上傳，只上傳 outputs/ 裡的 Best Model（LoRA adapter）
+checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/

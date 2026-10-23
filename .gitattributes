@@ -1,0 +1,2 @@
+# LoRA adapter 約 70 MB，超過 GitHub 50 MB 的建議上限，用 Git LFS 上傳
+*.safetensors filter=lfs diff=lfs merge=lfs -text
