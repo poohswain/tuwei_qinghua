@@ -115,7 +115,7 @@ python infer_lora_chat.py     # 互動式多輪對話（/reset、/history、/sav
 
 - 最佳 checkpoint：epoch 2（step 32）
 - 最佳 validation loss：2.0735
-- 訓練在 epoch 4 觸發 early stopping（validation loss 連續 2 個 epoch 沒有下降），總訓練時間約 14 分鐘
+- 訓練在 epoch 4 觸發 early stopping（validation loss 連續 2 個 epoch 沒有下降），總訓練時間約 4 分鐘
 
 | Epoch | Training loss（epoch 末） | Validation loss |
 |---|---|---|
